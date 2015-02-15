@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="igo-ipadic-analyzer">
+    <output-path>$PROJECT_DIR$/out/artifacts/igo_ipadic_analyzer</output-path>
+    <root id="archive" name="igo_ipadic_analyzer.jar">
+      <element id="module-output" name="IpadicAnalyzer" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/igo-0.4.2.jar" />
+      <element id="directory" name="build">
+        <element id="dir-copy" path="$PROJECT_DIR$/../igo-0.4.2-src/ipadic" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sl4j">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/opt/slf4j-1.6.1/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/opt/slf4j-1.6.1/slf4j-jdk14-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

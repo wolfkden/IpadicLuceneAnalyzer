@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jcouchdb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/opt/jcouch/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/opt/jcouch/lib/hamcrest-all-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/opt/jcouch/lib/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/opt/jcouch/lib/junit-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/opt/jcouch/WebContent/WEB-INF/lib/httpclient-4.0.jar!/" />
+      <root url="jar://$USER_HOME$/opt/jcouch/WebContent/WEB-INF/lib/httpcore-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

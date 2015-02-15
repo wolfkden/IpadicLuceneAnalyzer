@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ektorp">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/opt/ektorp-all/bin/org.ektorp-1.1.1.jar!/" />
+      <root url="jar://$GRADLE_REPOSITORY$/commons-io/commons-io/jars/commons-io-1.2.jar!/" />
+      <root url="jar://$GRADLE_REPOSITORY$/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$GRADLE_REPOSITORY$/wrapper/dists/gradle-0.9.2/lib/slf4j-api-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
